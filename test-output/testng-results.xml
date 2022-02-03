@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-03T02:22:21 IST" name="Default suite" finished-at="2022-02-03T02:22:47 IST" duration-ms="25547">
+    <groups>
+    </groups>
+    <test started-at="2022-02-03T02:22:21 IST" name="Default test" finished-at="2022-02-03T02:22:47 IST" duration-ms="25547">
+      <class name="SwagLabs.TestProductPricing">
+        <test-method is-config="true" signature="loginToSauceDemo()[pri:0, instance:SwagLabs.TestProductPricing@27462a88]" started-at="2022-02-03T02:22:21 IST" name="loginToSauceDemo" finished-at="2022-02-03T02:22:29 IST" duration-ms="7805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSauceDemo -->
+        <test-method signature="addProductOfHighestPriceToCart()[pri:0, instance:SwagLabs.TestProductPricing@27462a88]" started-at="2022-02-03T02:22:29 IST" name="addProductOfHighestPriceToCart" finished-at="2022-02-03T02:22:47 IST" duration-ms="17710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductOfHighestPriceToCart -->
+      </class> <!-- SwagLabs.TestProductPricing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
